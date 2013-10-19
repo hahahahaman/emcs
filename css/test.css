@@ -1,0 +1,36 @@
+
+.widepage
+{
+	width:100%;
+	/*width:62.5em;*/ /*1000px/16px*/; 
+	margin:0 auto; 
+	position:relative;
+}
+
+.entry h2,
+.entry .content
+{
+	float: right;
+	width: 84.4%; /* 844/1000*/
+	background: #FFF;
+}
+
+.entry .info
+{
+	float:left;
+	float: 12.4%; /*124/1000*/
+	background:#FFF;
+}
+
+.entry .main
+{
+	float:left;
+	width: 82.938%; /*700px /844px*/
+}
+
+.entry .meta
+{
+	float: right;
+	width: 14.629%; /*124px/844px*/
+}
+
