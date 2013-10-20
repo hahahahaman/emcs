@@ -64,12 +64,12 @@ nav ul li ul li a {
 
 nav ul li:hover a,
 nav ul li a:hover,
-nav ul li a:focus {color:#fff; background:#003366;}
+nav ul li a:focus {color:#fff; background:#000044;}
 nav ul li a:active {color:#fff; background:#003366;}
 nav ul li:hover ul {left:0;z-index:10}
 nav ul li ul,
 nav ul li {background:#000044 !important}
-nav ul li:hover ul li a {color:#444;}
+nav ul li:hover ul li a {color:#003366;}
 nav ul li:hover ul li a:hover {color:#000; background:#fff;}
 nav ul li:hover ul li a:active {color:#003366; background:#fff;}
 
@@ -77,7 +77,7 @@ nav ul li.current a {color:#003366; background:#fff; cursor:default; font-weight
 nav ul li.current ul {left:0;z-index:5}
 nav ul li.current ul,
 nav ul li.current {background:#003366 !important}
-nav ul li.current ul li a {color:#444; background:#003366; font-weight:normal;}
+nav ul li.current ul li a {color:#003366; background:#003366; font-weight:normal;}
 nav ul li.current ul li a:hover {color:#000; background:#fff;}
 nav ul li ul li.current a,
 nav ul li ul li.current a:hover,
@@ -113,22 +113,22 @@ ul.main li ul li a {
   height:2em;
   text-align:left;
   color:#fff;
-  border-top:1px solid #444;
-  background:#444;
+  border-top:1px solid #003366;
+  background:#003366;
 }
 ul.main li a:focus {color:#fff; background:#003366;}
 ul.main li ul li a:hover {
   color:#fff;
-  background:#555;
+  background:#004477;
 }
 ul.main li:hover a {
   color:#fff;
-  background:#555;
+  background:#004477;
 }
 ul.main li:hover ul li a {color:#fff;}
-ul.main li:hover ul li a:hover {color:#fff; background:#444;}
-ul.main li:hover a:active {background:#444;}
-ul.main li:hover ul li a:active {color:#fff; background:#222;}
+ul.main li:hover ul li a:hover {color:#fff; background:#003366;}
+ul.main li:hover a:active {background:#003366;}
+ul.main li:hover ul li a:active {color:#fff; background:#000044;}
 
 
 /* secondary list
@@ -166,6 +166,6 @@ nav ul li.secondary:hover a {
 	background:#003366;
 }
 nav ul li.secondary:hover a:hover {
-	background:#555;
+	background:#004477;
 }
-nav ul li.secondary:hover a:active {background:#444;}
+nav ul li.secondary:hover a:active {background:#003366;}

@@ -15,10 +15,10 @@ body {
 ----------------------------------------------- */
 #page
 {
-	background:#c0c0c0;
+	background:#686868;
 	margin: 0px auto;
 	padding: 0 1em;
-	max-width: 62.5%; /* 1000px /16px = 62.5em */
+	max-width: 100em; /* 1600px /16px = 100em */
 }
 
 /* header
@@ -32,7 +32,6 @@ header
 	margin:0 auto;
 	position:relative;
 }
-
 
 /* anchors
 ----------------------------------------------- */
@@ -70,11 +69,12 @@ h1 a {
 /* branding
 ----------------------------------------------- */
 h1#branding {
+	color:#fff;
 	font-weight:normal;
-	font-size:3em;
-	text-align:left;
-	background:#aaa;
-	padding:.7em 1em;
+	font-size:2.2em;
+	text-align:right;
+	background:#336699;
+	padding: 0.1em 0.1em 0em 0.1em;
 	margin-bottom:0;
 }
 
@@ -82,17 +82,18 @@ h1#branding {
 ----------------------------------------------- */
 #logo
 {
-	background: url(../img/logo.png) no-repeat; 
-	width:8.5em; /*104px*/
+	background: url(../img/logowhite.png) no-repeat; 
+	width:7.5em; /*104px*/
 	height:3em; /*35.2px*/
 	position:relative;
-	float:none;
+	float:left;
 	display:block;
 }
 
 #logo span {display:none;}
 #logo:hover
 {
+	background: url(../img/logoblue.png) no-repeat;
 }
 
 /* page heading

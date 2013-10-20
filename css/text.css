@@ -3,6 +3,11 @@ body
 	font: 0.8em Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
 }
 
+#page
+{
+	color:#fff;
+}
+
 a:focus
 {
 	outline: 1px dotted invert;
@@ -10,7 +15,7 @@ a:focus
 
 hr
 {
-	border-color: #ccc;
+	border-color: #369;
 	border-style: solid;
 	border-width: 1px 0 0;
 	clear: both;
@@ -22,7 +27,7 @@ hr
 
 h1
 {
-	font-size: 25px;
+	font-size: 1.5625em;
 }
 
 h2
