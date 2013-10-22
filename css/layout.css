@@ -26,7 +26,7 @@ body {
 header
 {
 	background:#336699 no-repeat;
-	height: 5.25em; /*104/16*/
+	height: 5.5em; /*104/16*/
 	padding-top: 0.0em; /*12/16*/
 	width:100%;
 	margin:0 auto;
@@ -152,6 +152,12 @@ h2#page-heading {
 }
 .block {
 	padding-top:10px;
+}
+.block a{
+	color:#fff;
+}
+.block  a:hover{
+	color:#000044;
 }
 div.menu {
 	padding:0;
