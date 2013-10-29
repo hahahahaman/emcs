@@ -1,0 +1,59 @@
+
+
+IEEE  Distinguished Lecturer Presentation hosted jointly by the 
+IEEE Ottawa EMC Chapter, and the IEEE Ottawa MTT/AP Chapter
+
+----------------------------------------------------------------
+
+Speaker  :   Jerry Meyerhoff,JDM LABS LLC, Buffalo Grove IL 60089, USA 
+
+Topic    :   Why MY MODULE fails EMC?
+
+Date     :   Thursday October 25, 2012 
+
+Time     :   6:00 PM  to 8:00 PM
+
+Location :   FIDUS SYSTEMS Inc.,35 Fitzgerald Road, Suite 400, Ottawa, ON,K2H 1E6
+             (EXAR building, 4th floor)
+
+
+Admission:   Free, and is on a first to reply basis.
+             Preference given to IEEE EMC/MTT/AP society members.  
+             Seating is limited. E-mail Reservation is required.
+             Pizza and soft drinks will be served. 
+           
+Contact  :   Dr. Syed Bokhari, Chairman, IEEE Ottawa EMC chapter
+             Syed.Bokhari@fidus.ca, 
+             Office :(613) 828-0063 Ext. 377, Cell: (613) 355 - 6632
+            
+             Dr. Qingsheng Zeng , Chairman of the IEEE Ottawa MTT/AP Chapters
+             [qingsheng.zeng@crc.gc.ca]
+
+           
+Abstract
+
+Case studies drawn from multiple designs are used to demonstrate the 
+underlying EMC physics for causes and cures. Solutions are generalized 
+for applicability to multiple future designs.
+
+Biography
+---------
+
+
+Jerry Meyerhoff, Principal EMC Consultant, JDM LABS LLC, 
+received his BSEE from UIC ( University of Illinois at Chicago) 
+and post-graduate studies at IIT. 
+Previously Staff Engineer with Motorola Communications Division 
+and Distinguished Member of the Technical Staff of the Motorola 
+Automotive Business, then Distinguished Member of the Technical Staff, 
+EMC Engineer, ElectroMagnetic Compatibility specialist, with 
+Continental Automotive Systems. IEEE/EMC Distinguished Lecturer, 
+Secretary of the Chicago IEEE/EMC chapter, Programs Chair of the 
+UIC Engineering Alumni Association (EAA) , UIC Constituent 
+Leadership Award, Six US Patents, Amateur operator WA9FIY. 
+http://www.linkedin.com/in/jerrymeyerhoff 
+
+
+
+  
+

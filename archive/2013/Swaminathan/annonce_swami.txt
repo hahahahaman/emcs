@@ -1,0 +1,76 @@
+
+
+IEEE  Distinguished Lecturer Presentation hosted jointly by the 
+IEEE Ottawa EMC Chapter, and the IEEE Ottawa MTT/AP Chapter
+
+----------------------------------------------------------------
+
+Speaker  :   Professor Madhavan Swaminathan, Georgia Institute of Technology, Atlanta GA
+
+Topic    :   Designing for Power Integrity, Status, Challenges, and Opportunities
+
+Date     :   Tuesday March 19, 2013
+
+Time     :   6:00 PM  to 8:00 PM
+
+Location :   FIDUS SYSTEMS Inc.,35 Fitzgerald Road, Suite 400, Ottawa, ON,K2H 1E6
+            
+
+Admission:   Free, and is on a first to reply basis.
+             Preference given to IEEE EMC/MTT/AP society members.  
+             Seating is limited. E-mail Reservation is required.
+             Pizza and soft drinks will be served. 
+           
+Contact  :   Dr. Syed Bokhari, Chairman, IEEE Ottawa EMC chapter
+             Syed.Bokhari@fidus.ca, 
+             Office :(613) 828-0063 Ext. 377, Cell: (613) 355 - 6632
+            
+             Dr. Qingsheng Zeng , Chairman of the IEEE Ottawa MTT/AP Chapters
+             [qingsheng.zeng@crc.gc.ca]
+
+           
+Abstract
+
+Since the mid-1990s, designers have been developing sophisticated methods 
+for managing power integrity in packages and printed circuit boards which 
+has had a direct impact on the signal integrity of systems. These have 
+included items such as developing design parameters such as target impedance, 
+developing repeatable frequency domain characterization methods, pushing 
+the EDA vendors to improve the capability of the design tools, developing 
+new devices such as EBGs to improve isolation, developing embedded capacitance 
+layers to name a few. However, the designers are continuing to face challenges 
+where the noise on the power distribution is beginning to over shadow the 
+signals in fast switching environments arising in high speed computing systems. 
+These challenges are often times opportunities for university research that can 
+lead to interesting and often times innovative solutions.  This talk will 
+cover a review of the past developments in this area and will focus on the 
+present challenges and potential solutions in the area of power delivery.
+
+
+Biography
+---------
+
+Madhavan Swaminathan is the John Pippin Chair in Electromagnetics in the School 
+of Electrical and Computer Engineering (ECE) and Director of the Interconnect 
+and Packaging Center, Georgia Tech and the Founder and CTO of E-System Design, 
+a company focusing on the development of CAD tools for achieving signal and 
+power integrity in integrated 3D micro and nano-systems. He is also the co-founder 
+of Jacket Micro Devices, a company that specialized in integrated RF modules and 
+substrates for wireless applications that was acquired by AVX Corporation. He 
+formerly held the position of Joseph M. Pettit Professor in Electronics in ECE 
+and Deputy Director of the NSF Microsystems Packaging Center at Georgia Tech. 
+Prior to joining Georgia Tech, he was with IBM working on packaging for 
+supercomputers. He is the author of more than 350 journal and conference 
+publications, holds 27 patents, is the author of 3 book chapters, primary author 
+and co-editor of 2 books - Power Integrity Modeling and Design for Semiconductors 
+and Systems, Prentice Hall, Nov 2007 and Introduction to System on Package, 
+MCGraw Hill, Mar. 2008 in the field of packaging and has won several awards 
+including the Technical Excellence Award from Semiconductor Research Corporation. 
+He is an IEEE Fellow and serves as the Distinguished Lecturer for the IEEE EMC 
+society for the 2012- 2013 term. He received his M.S and PhD degrees in Electrical 
+Engineering from Syracuse University in 1989 and 1991, respectively.
+
+
+
+  
+
