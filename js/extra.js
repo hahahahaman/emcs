@@ -8,7 +8,7 @@ function startTime()
 	// add a zero in front of numbers<10
 	m=checkTime(m);
 	s=checkTime(s);
-	document.getElementById('clock').innerHTML=calcTime("Ottawa", '-4.0');
+	document.getElementById('clock').innerHTML=calcTime("Ottawa", '-5.0');
 	t=setTimeout(function(){startTime()},500);
 }
 
