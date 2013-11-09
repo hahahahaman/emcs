@@ -425,7 +425,7 @@ input.search.button {
 	padding-top:.5em;
 }
 .box .article {
-	border-top:3px solid #fff;
+	border-top:3px solid #003366;
 	padding:13px 10px 0 10px;
 }
 .article h2 {
@@ -455,7 +455,7 @@ input.search.button {
 	margin:3px 10px 3px 0; 
 	padding:4px;
 	border:1px solid #003366;
-	background:#fff;
+	background:#336699;
 }
 .article a.image:hover {
 	border:1px solid #003366;
